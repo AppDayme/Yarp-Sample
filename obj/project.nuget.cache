@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5pRPc5nbvPhVpkignFFVghqNDryFnCNPmusRqPHLS8iQWJ3zyb4rITgHY4paTxTLC/Xr72ZSZ8Ta0aL3pI3rQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/YarpExample/YarpExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/system.io.abstractions/19.2.69/system.io.abstractions.19.2.69.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.io.hashing/7.0.0/system.io.hashing.7.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/testableio.system.io.abstractions/19.2.69/testableio.system.io.abstractions.19.2.69.nupkg.sha512",
+    "/Users/mac/.nuget/packages/testableio.system.io.abstractions.wrappers/19.2.69/testableio.system.io.abstractions.wrappers.19.2.69.nupkg.sha512",
+    "/Users/mac/.nuget/packages/yarp.reverseproxy/2.0.1/yarp.reverseproxy.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
